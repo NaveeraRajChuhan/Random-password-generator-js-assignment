@@ -25,8 +25,6 @@ padding: 20px 30px;
   text-align: center;
   /* background: rgb(32, 0, 32); */
         /* background: linear-gradient(90deg, rgb(14, 0, 12), rgb(45, 2, 70)); */
-
-
   /* background: linear-gradient(135deg, #2e003e, #8e44ad, #c0392b); 
   padding: 20px 30px;
   border-radius: 12px;
@@ -37,18 +35,13 @@ padding: 20px 30px;
 
 /* background: linear-gradient(135deg, #20002c, #cbb4d4); */
 /* background: linear-gradient(135deg, #360033, #8e0e00); */
-
-
-
-
-
   
 }
 
 h1 {
   margin-bottom: 20px;
   /* color: #333; */
-  color: #ffffff; /* White text for contrast */
+  color: #ffffff; 
 
 }
 
