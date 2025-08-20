@@ -18,13 +18,13 @@ body {
 }
 
 .container {
+background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+padding: 20px 30px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+  text-align: center;
   /* background: rgb(32, 0, 32); */
         /* background: linear-gradient(90deg, rgb(14, 0, 12), rgb(45, 2, 70)); */
-
-
-
-
-
 
 
   /* background: linear-gradient(135deg, #2e003e, #8e44ad, #c0392b); 
@@ -34,7 +34,7 @@ body {
 
 /* background: linear-gradient(135deg, #2e003e, #8e44ad); */
 /* background: linear-gradient(135deg, #1a0033, #6a0dad, #ff00cc); */
-background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+
 /* background: linear-gradient(135deg, #20002c, #cbb4d4); */
 /* background: linear-gradient(135deg, #360033, #8e0e00); */
 
@@ -42,10 +42,7 @@ background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
 
 
 
-  padding: 20px 30px;
-  border-radius: 12px;
-  box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
-  text-align: center;
+  
 }
 
 h1 {
